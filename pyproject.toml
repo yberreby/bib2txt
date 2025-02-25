@@ -1,7 +1,7 @@
 [project]
-name = "bibexport"
+name = "bib2txt"
 version = "0.1.0"
-description = "Add your description here"
+description = "Minimal Python utility displaying a BibTeX file as plaintext, mainly for use with LLMs."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

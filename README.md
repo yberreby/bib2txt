@@ -1,4 +1,4 @@
-# bibexport
+# bib2txt
 
 Takes in a `biblio.bib`, outputs a condensed plaintext representation, for use with LLMs.
 
