@@ -1,0 +1,10 @@
+[project]
+name = "bibexport"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bibtexparser>=1.4.3",
+    "pylatexenc>=2.10",
+]
